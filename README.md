@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshul!</h1>
 <h3 align="center">I am a Computer Science undergrad, a Web-Dev and an open-source enthusiast.</h3>
 
-- 🔭 I’m currently learning [Advanced Javascript](https://www.javascript.com)
+- 🔭 I’m currently learning [React JS](https://reactjs.org/)
 
 - 🤝I am open to collaborate and help Open-Source Community grow.
 
